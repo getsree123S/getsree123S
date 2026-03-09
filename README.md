@@ -6,9 +6,7 @@
 ⚡ Experienced in React, Angular, Node.js, Express.js, and MongoDB.  
 🌱 Passionate about learning new technologies and developing high-quality web solutions.
 
-## 📫 Connect With Me
-
-📧 Email: getsreelakshmi30@gmail.com
+ 
 
 ### 🛠 Tech Stack
 
