@@ -1,16 +1,15 @@
-## Hi there 👋
+ 
+# Hi 👋 I'm Sreelakshmi V V
 
-<!--
-**getsree123S/getsree123S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer with experience in MEAN stack technologies.  
+🚀 Skilled in building scalable and efficient web applications using modern JavaScript frameworks.  
+⚡ Experienced in React, Angular, Node.js, Express.js, and MongoDB.  
+🌱 Passionate about learning new technologies and developing high-quality web solutions.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
