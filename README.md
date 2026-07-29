@@ -1,7 +1,7 @@
  
 # Hi 👋 I'm Sreelakshmi V V
  
-💻 MERN Stack Developer with experience in MEAN stack technologies.  
+💻 MERN Stack Developer with experience in MEAN stack development.  
 🚀 Skilled in building scalable and efficient web applications using modern JavaScript frameworks.  
 ⚡ Experienced in React, Angular, Node.js, Express.js, and MongoDB.  
 🌱 Passionate about learning new technologies and developing high-quality web solutions.
